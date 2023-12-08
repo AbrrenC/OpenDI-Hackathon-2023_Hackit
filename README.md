@@ -2,11 +2,11 @@
 
 
 
-Task breakdown 8-12-2023
+Task breakdown: 8-12-2023
 
-1. Lei:  generaate a GA to generate prompt
-2.  Abreen: Autodan ode disection
-3.  Ambreen: technical platform exploration and optimizaation function exploration
+1. Lei:  generate a GA to generate prompt
+2.  Abreen: Autodan code disection
+3.  Ambreen: technical platform exploration and optimization function exploration
 
 
 ## Ambreen's Resources 
