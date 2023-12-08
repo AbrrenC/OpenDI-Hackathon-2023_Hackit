@@ -1,6 +1,8 @@
 # Depost Hackathon - Challenge 4 => Sub-challenge 3:  Automated Prompt Engineering Challenge:
 
-<img width="452" alt="Daigram" src="https://github.com/AbrrenC/Depost_Hackathon/assets/54808990/84d341dc-3699-4734-84b7-571bec8d804a">
+Genetic Algorithm (GA) Diagram
+
+<img width="1000" alt="Diagram" src="https://github.com/AbrrenC/Depost_Hackathon/assets/54808990/84d341dc-3699-4734-84b7-571bec8d804a">
 
 
 Task breakdown: 8-12-2023
