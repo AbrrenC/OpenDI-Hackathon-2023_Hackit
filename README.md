@@ -4,6 +4,7 @@
 
 <img width="1000" alt="Diagram" src="https://github.com/AbrrenC/Depost_Hackathon/assets/54808990/84d341dc-3699-4734-84b7-571bec8d804a">
 
+## Online Platform Customer Service Chatbot Optimisation Solution using Genetic Algorithm
 
 ## Task breakdown: 8-12-2023
 
