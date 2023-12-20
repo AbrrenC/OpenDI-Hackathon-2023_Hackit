@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-import re
 
 API_URL = "https://api-inference.huggingface.co/models/meta-llama/Llama-2-70b-chat-hf"
 headers = {"Authorization": "Bearer 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"}
