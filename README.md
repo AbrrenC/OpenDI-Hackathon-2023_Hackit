@@ -2,9 +2,9 @@
 
 ## Team Members
 
-Team Lead: Lei Yang
-Data Scientist: Ambreen Hanif
-Data Engineer: Abrren Chen
+- Team Lead: Lei Yang <br>
+- Data Scientist: Ambreen Hanif <br>
+- Data Engineer: Abrren Chen <br>
 
 ## Project Objective
 
