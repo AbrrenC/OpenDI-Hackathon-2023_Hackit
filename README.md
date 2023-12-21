@@ -6,7 +6,11 @@
 
 ## Online Platform Customer Service Chatbot Optimisation Solution using Genetic Algorithm
 
-<img width="1000" alt="CS_chatbot" src="https://github.com/AbrrenC/Depost_Hackathon/assets/54808990/0ebb95a1-84b1-423b-bd09-fa83e15ad823">
+<img width="1000" alt="CS_Chatbot" src="https://github.com/AbrrenC/Depost_Hackathon/assets/54808990/e0996a21-d9c3-429e-9c48-3dacb4aa2165">
+
+## Solution Deployment Diagram
+
+<img width="1000" alt="Deployment" src="https://github.com/AbrrenC/Depost_Hackathon/assets/54808990/5d052516-9661-46f0-82da-54c4847b1252">
 
 ## Task breakdown: 8-12-2023
 
