@@ -1,7 +1,20 @@
+nltk
 numpy
-wonderwords
-vaderSentiment
-starlette
--e git+https://github.com/hypercycle-development/pyhypercycle-aim.git#egg=pyhypercycle_aim
-requests
 pytest
+random
+torch
+pandas
+openai
+requests
+textblob
+starlette
+wordcloud
+matplotlib
+wonderwords
+collections
+transformers
+vaderSentiment
+scipy.spatial.distance
+sklearn.metrics.pairwise
+sklearn.feature_extraction.text
+-e git+https://github.com/hypercycle-development/pyhypercycle-aim.git#egg=pyhypercycle_aim

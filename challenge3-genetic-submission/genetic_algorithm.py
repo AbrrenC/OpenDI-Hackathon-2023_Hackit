@@ -2,9 +2,14 @@
 # -*- coding: utf-8 -*-
 # h/t: https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/
 
+import nltk
 import random
 import torch
 import pandas as pd
+from nltk.corpus import stopwords
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+from collections import Counter
 from openai import OpenAI
 from textblob import TextBlob
 from scipy.spatial.distance import cosine
@@ -170,10 +175,7 @@ class GeneticAlgorithm():
     #### Generate overall fitness scores
     """
 
-    from collections import Counter
-    import nltk
     nltk.download('stopwords')
-    from nltk.corpus import stopwords
 
     # Get English stopwords
     stop_words = set(stopwords.words('english'))
@@ -213,9 +215,6 @@ class GeneticAlgorithm():
 
     # Test the function
     print("Recognized intent:", recognize_intent(top_5_prompts[0][0]))
-
-    from wordcloud import WordCloud
-    import matplotlib.pyplot as plt
 
     # Provided common themes with some words having trailing punctuation
     common_words_with_punctuation = [('account,', 3), ('steps', 3), ('generate', 2), ('user', 2),
